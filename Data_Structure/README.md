@@ -3,7 +3,7 @@
 
 This project is evalute the ticket prices, how long it take, and all the station it passed from a station to another.
 Use adjacency lists to store the data.
-</br>這個Project是計算台北捷運一個站到另一個站的票價、搭乘時間及路過站點。使用鄰接串列儲存資料。
+</br>這個Project是計算台北捷運站到站的票價、搭乘時間及路過站點。使用鄰接串列儲存資料。
 
 The data of **DISTANCE** is base on this [website](http://data.but.tw/trtc/price.html).</br>
 The data of **TIME** is base on this [website](http://www.fgu.edu.tw/~94411002/TaipeiMRT/2-2.htm).</br>
